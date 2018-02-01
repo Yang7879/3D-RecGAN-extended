@@ -1,5 +1,5 @@
 # 3D Object Dense Reconstruction from a Single Depth View
-
+Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. preprint, 2018.
 ## (1) Paper
 
 ## (2) Architecture
