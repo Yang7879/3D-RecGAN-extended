@@ -3,7 +3,7 @@
 ## (1) Paper
 
 ## (2) Architecture
-
+![Arch_Image](https://github.com/Yang7879/3D-RecGAN-extended/blob/master/3D-RecGAN%2B%2B_arch.png)
 ## (3) Sample Results
 ![Teaser_Image](https://github.com/Yang7879/3D-RecGAN-extended/blob/master/3D-RecGAN%2B%2B_sample.png)
 
