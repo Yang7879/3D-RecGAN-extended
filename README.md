@@ -15,3 +15,18 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. preprint, 2018
 [https://drive.google.com/open?id=17_GIR5bUj_-g1GRmlyWnbjC1j7adpe5y](https://drive.google.com/open?id=17_GIR5bUj_-g1GRmlyWnbjC1j7adpe5y)
 ### Real Dataset: {Kinect: bench, chair, coach, table}
 [https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq](https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq)
+
+## (5) Citation
+If you use the paper, code or data for your research, please cite:
+```
+@inProceedings{Yang18,
+  title={3D Object Dense Reconstruction from a Single Depth View},
+  author = {Bo Yang
+  and Stefano Rosa
+  and Andrew Markham
+  and Niki Trigoni
+  and Hongkai Wen},
+  booktitle={arXiv preprint arXiv:1801.00411},
+  year={2018}
+}
+```
