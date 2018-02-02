@@ -19,10 +19,24 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. arXiv preprint
 [https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP](https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP)
 
 ## (5) Requirements
+python 2.7.6
+
+tensorflow 1.2.0
+
+numpy 1.13.3
+
+scipy 0.19.0
+
+matplotlib 2.0.2
+
+skimage 0.13.0
 
 ## (6) Run
 #### Training
-#### Test Demo
+python main_3D-RecGAN++.py
+
+#### Test Demo (Download released model first)
+python demo_3D-RecGAN++.py
 
 ## (7) Citation
 If you use the paper, code or data for your research, please cite:
