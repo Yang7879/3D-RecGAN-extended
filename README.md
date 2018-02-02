@@ -14,13 +14,17 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. arXiv preprint
 ### Real Dataset: {Kinect: bench, chair, coach, table}
 [https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq](https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq)
 
-## (4) Requirements
+## (4) Released Model
+### Trained on {bench, chair, coach, table}
+[https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP](https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP)
 
-## (5) Run
+## (5) Requirements
+
+## (6) Run
 ### Training
 ### Testing
 
-## (5) Citation
+## (7) Citation
 If you use the paper, code or data for your research, please cite:
 ```
 @inProceedings{Yang18,
