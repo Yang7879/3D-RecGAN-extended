@@ -15,7 +15,7 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. arXiv preprint
 [https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq](https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq)
 
 ## (4) Released Model
-### Trained on {bench, chair, coach, table}
+#### Trained on {bench, chair, coach, table}, 2G
 [https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP](https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP)
 
 ## (5) Requirements
