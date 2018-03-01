@@ -7,7 +7,7 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. arXiv preprint
 ![Teaser_Image](https://github.com/Yang7879/3D-RecGAN-extended/blob/master/3D-RecGAN%2B%2B_sample.png)
 
 ## (3) Data
-#### Part 1: {ShapeNetCore.v2: bench, chair, coach, table}, 15G
+#### Part 1: {ShapeNetCore.v2: bench, chair, couch, table}, 15G
 [https://drive.google.com/open?id=12FeihIJ6YL-RiLFQL5OdyVbwbasQGRii](https://drive.google.com/open?id=12FeihIJ6YL-RiLFQL5OdyVbwbasQGRii)
 #### Part 2: {ShapeNetCore.v2: airplane, car, monitor, faucet, guitar, gun}, 3G
 [https://drive.google.com/open?id=17_GIR5bUj_-g1GRmlyWnbjC1j7adpe5y](https://drive.google.com/open?id=17_GIR5bUj_-g1GRmlyWnbjC1j7adpe5y)
@@ -15,7 +15,7 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. arXiv preprint
 [https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq](https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq)
 
 ## (4) Released Model
-#### Trained on {bench, chair, coach, table}, 2G
+#### Trained on {bench, chair, couch, table}, 2G
 [https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP](https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP)
 
 ## (5) Requirements
