@@ -7,12 +7,12 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. arXiv preprint
 ![Teaser_Image](https://github.com/Yang7879/3D-RecGAN-extended/blob/master/3D-RecGAN%2B%2B_sample.png)
 
 ## (3) Data
-#### Part 1: {ShapeNetCore.v2: bench, chair, couch, table}, 15G
-[https://drive.google.com/open?id=12FeihIJ6YL-RiLFQL5OdyVbwbasQGRii](https://drive.google.com/open?id=12FeihIJ6YL-RiLFQL5OdyVbwbasQGRii)
-#### Part 2: {ShapeNetCore.v2: airplane, car, monitor, faucet, guitar, gun}, 3G
-[https://drive.google.com/open?id=17_GIR5bUj_-g1GRmlyWnbjC1j7adpe5y](https://drive.google.com/open?id=17_GIR5bUj_-g1GRmlyWnbjC1j7adpe5y)
+#### Part 1: {ShapeNetCore.v2: bench, chair, couch, table}, 20G
+[https://drive.google.com/open?id=1rmOggF0ivB42KozMX3sQGD1CkZNOGCmM](https://drive.google.com/open?id=1rmOggF0ivB42KozMX3sQGD1CkZNOGCmM)
+#### Part 2: {ShapeNetCore.v2: airplane, car, monitor, faucet, guitar, gun}, 9.3G
+[https://drive.google.com/open?id=1zLQd68O73ZiwZ8S8qsLwwGYDcC5PiEdG](https://drive.google.com/open?id=1zLQd68O73ZiwZ8S8qsLwwGYDcC5PiEdG)
 #### Real Dataset: {Kinect: bench, chair, couch, table}
-[https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq](https://drive.google.com/open?id=1oAaYp36GgzvzEdVg8s2j90JnFVok9juq)
+[https://drive.google.com/open?id=1wTE721q0r66Z6yyN68O1Tz4Bg5-aYnq3](https://drive.google.com/open?id=1wTE721q0r66Z6yyN68O1Tz4Bg5-aYnq3)
 
 ## (4) Released Model
 #### Trained on {bench, chair, couch, table}, 2G
