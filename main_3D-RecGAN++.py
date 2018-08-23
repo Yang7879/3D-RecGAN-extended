@@ -16,15 +16,15 @@ config={}
 config['batch_size']=batch_size
 config['vox_res_x'] = vox_res64
 config['vox_res_y'] = vox_rex256
-config['train_names']=['P1_02828884_bench','P1_03001627_chair','P1_04256520_coach', 'P1_04379243_table']
+config['train_names']=['P1_02828884_bench','P1_03001627_chair','P1_04256520_couch', 'P1_04379243_table']
 for name in config['train_names']:
-    config['X_train_'+name] = './Data_sample/'+name+'/train_25d_vox256/'
-    config['Y_train_'+name] = './Data_sample/'+name+'/train_3d_vox256/'
+    config['X_train_'+name] = './Data_sample/'+name+'/train_125_25d_vox256/'
+    config['Y_train_'+name] = './Data_sample/'+name+'/train_125_3d_vox256/'
 
-config['test_names']=['P1_02828884_bench','P1_03001627_chair','P1_04256520_coach', 'P1_04379243_table']
+config['test_names']=['P1_02828884_bench','P1_03001627_chair','P1_04256520_couch', 'P1_04379243_table']
 for name in config['test_names']:
-    config['X_test_'+name]= './Data_sample/'+name+'/test_25d_vox256/'
-    config['Y_test_'+name]= './Data_sample/'+name+'/test_3d_vox256/'
+    config['X_test_'+name]= './Data_sample/'+name+'/test_125_25d_vox256/'
+    config['Y_test_'+name]= './Data_sample/'+name+'/test_125_3d_vox256/'
 #########################
 
 class Network:

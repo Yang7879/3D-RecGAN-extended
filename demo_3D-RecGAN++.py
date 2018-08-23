@@ -8,8 +8,8 @@ GPU0 = '0'
 
 def ttest_demo():
     ####### load sample data
-    x_path = './Data_sample/P1_03001627_chair/test_25d_vox256/1c08f2aa305f124262e682c9809bff14_0_0_0.npz'
-    y_true_path = './Data_sample/P1_03001627_chair/test_3d_vox256/1c08f2aa305f124262e682c9809bff14_0_0_0.npz'
+    x_path = './Data_sample/P1_03001627_chair/test_125_25d_vox256/1c08f2aa305f124262e682c9809bff14_0_0_0.npz'
+    y_true_path = './Data_sample/P1_03001627_chair/test_125_3d_vox256/1c08f2aa305f124262e682c9809bff14_0_0_0.npz'
     x_sample = tools.Data.load_single_voxel_grid(x_path, out_vox_res=64)
     y_true = tools.Data.load_single_voxel_grid(y_true_path, out_vox_res=256)
 
