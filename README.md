@@ -1,5 +1,5 @@
-# 3D Object Dense Reconstruction from a Single Depth View
-Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. arXiv preprint arXiv:1802.00411, 2018.
+# Dense 3D Object Reconstruction from a Single Depth View
+Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. TPAMI, 2018.
 
 ## (1) Architecture
 ![Arch_Image](https://github.com/Yang7879/3D-RecGAN-extended/blob/master/3D-RecGAN%2B%2B_arch.png)
@@ -42,13 +42,13 @@ python demo_3D-RecGAN++.py
 If you use the paper, code or data for your research, please cite:
 ```
 @inProceedings{Yang18,
-  title={3D Object Dense Reconstruction from a Single Depth View},
+  title={Dense 3D Object Reconstruction from a Single Depth View},
   author = {Bo Yang
   and Stefano Rosa
   and Andrew Markham
   and Niki Trigoni
   and Hongkai Wen},
-  booktitle={arXiv preprint arXiv:1802.00411},
+  booktitle={TPAMI},
   year={2018}
 }
 ```
