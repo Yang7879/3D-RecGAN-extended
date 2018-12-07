@@ -18,6 +18,11 @@ Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen. [TPAMI](http:/
 #### Trained on {bench, chair, couch, table}, 2G
 [https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP](https://drive.google.com/open?id=1IzwZLgRhzd6GVofzdjBZTblxMPH7NuxP)
 
+All data and the trained model are also avaliable at Baidu Pan:
+
+
+[https://pan.baidu.com/s/1FQXo_XQX4flDrE_jwElCCw](https://pan.baidu.com/s/1FQXo_XQX4flDrE_jwElCCw) 提取码: cam7
+
 ## (5) Requirements
 python 2.7.6
 
